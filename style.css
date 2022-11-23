@@ -1,0 +1,18 @@
+body{
+	background: #4a332d
+}
+div{
+	background: #ededc9;
+	color: white:;
+	text-align: right;
+}
+.background{
+	background: #a48a71;
+	text-align: center;
+}
+h1{
+	text-decoration: line-through;
+/*overline underline line-through*/
+text-transform: lowercase;
+letter-spacing: 5px;
+}
